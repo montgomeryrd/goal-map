@@ -1,0 +1,1 @@
+export const MONGODB = "mongodb+srv://montgomeryrd:6gf284g2896gt2@cluster0.lphir.mongodb.net/<dbname>?retryWrites=true&w=majority";
