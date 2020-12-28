@@ -6,7 +6,7 @@ import { MONGODB } from './config.js';
 
 import postRoutes from './routes/posts.js';
 
-const PORT = 3000 || process.env.PORT;
+const PORT = 5000 || process.env.PORT;
 const app = express();
 
 app.use('/posts', postRoutes)
